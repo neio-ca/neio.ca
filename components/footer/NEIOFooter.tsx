@@ -16,6 +16,9 @@ export function NEIOFooter() {
 								<li className="mb-4">
 									<a href="/about" className="hover:underline">About</a>
 								</li>
+								<li className="mb-4">
+									<a href="/contact" className="hover:underline">Contact Us</a>
+								</li>
 								<li>
 									<a href="https://neio.ca/product/academy" className="hover:underline">NEIO Academy</a>
 								</li>
