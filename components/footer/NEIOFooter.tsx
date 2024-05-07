@@ -1,15 +1,13 @@
+import { NEIOLogoWithText } from '../NEIOLogoWithText'
 import { CopyrightNotice } from './CopyrightNotice'
 
 export function NEIOFooter() {
 	return (
-		<footer className="bg-white dark:bg-gray-900">
+		<footer className="mt-32 bg-white dark:bg-gray-900">
 			<div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
 				<div className="md:flex md:justify-between">
 					<div className="mb-6 md:mb-0">
-						<a href="https://neio.ca/" className="flex items-center">
-							<img src="/neio.svg" className="h-8 me-3" alt="NEIO Inc. Logo" />
-							<span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">NEIO Inc.</span>
-						</a>
+						<NEIOLogoWithText />
 					</div>
 					<div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-2">
 						<div>
