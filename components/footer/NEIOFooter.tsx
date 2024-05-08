@@ -10,18 +10,23 @@ export function NEIOFooter() {
 					<div className="mb-6 md:mb-0">
 						<NEIOLogoWithText />
 					</div>
-					<div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-2">
+					<div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
 						<div>
-							<h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
+							<h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Product</h2>
+							<ul className="text-gray-500 dark:text-gray-400">
+								<li>
+									<Link href="/academy" className="hover:underline">NEIO Academy</Link>
+								</li>
+							</ul>
+						</div>
+						<div>
+							<h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Connect</h2>
 							<ul className="text-gray-500 dark:text-gray-400">
 								<li className="mb-4">
 									<Link href="/about" className="hover:underline">About</Link>
 								</li>
 								<li className="mb-4">
 									<Link href="/contact" className="hover:underline">Contact Us</Link>
-								</li>
-								<li>
-									<Link href="/product/academy" className="hover:underline">NEIO Academy</Link>
 								</li>
 							</ul>
 						</div>
