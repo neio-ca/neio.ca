@@ -29,10 +29,10 @@ export function NEIOFooter() {
 							<h2 className="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
 							<ul className="text-gray-500 dark:text-gray-400">
 								<li className="mb-4">
-									<Link href="/privacy" className="hover:underline">Privacy Policy</Link>
+									<Link href="/privacy" className="hover:underline">Privacy</Link>
 								</li>
 								<li>
-									<Link href="/terms" className="hover:underline">Terms &amp; Conditions</Link>
+									<Link href="/terms" className="hover:underline">Terms</Link>
 								</li>
 							</ul>
 						</div>
