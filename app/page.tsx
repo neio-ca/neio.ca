@@ -6,7 +6,7 @@ export default function Home() {
           <img src="/neio.svg" className="h-8 me-3" alt="NEIO Inc. Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">NEIO</span>
         </div>
-        <p className="mt-8 mx-auto px-4 text-l font-semibold"> Build software that people enjoy :) </p>
+        <p className="mt-8 mx-auto px-4 text-xl font-semibold"> Build software that people enjoy :) </p>
         <p className="mt-8 mx-auto px-8 max-w-[600px]">
           We provide free software, software as a service (SaaS) products, web apps, mobile apps, and more, using the most advanced technologies including cloud and AI.
         </p>
