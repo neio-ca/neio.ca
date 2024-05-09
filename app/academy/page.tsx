@@ -18,9 +18,10 @@ export default function Academy() {
 									<h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Enterprise Software Development</h5>
 								</Link>
 								<div className="mb-3 flex flex-wrap gap-2">
+									<span className="bg-primary-100 text-primary-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300">CS 201</span>
 									<span className="bg-primary-100 text-primary-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300">Bootcamp</span>
-									<span className="bg-primary-100 text-primary-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300">Spring 2024</span>
 									<span className="bg-primary-100 text-primary-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300">12 Weeks</span>
+									<span className="bg-primary-100 text-primary-800 text-xs font-medium px-2.5 py-0.5 rounded dark:bg-primary-900 dark:text-primary-300">Spring 2024</span>
 								</div>
 								<p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Limited to 10 participants, guarantees personalized learning with dedicated support from an experienced instructor who's a senior software engineer.</p>
 								<Link href="/academy/cs201" className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-primary-700 rounded-lg hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
