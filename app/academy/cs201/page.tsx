@@ -27,7 +27,7 @@ export default function CS201() {
 				<p className="mt-4">The instructor will lead you in building a full-stack project, covering UI design, API design, database management, and production deployment - an essential skill set for Software Engineer roles in any tech company.</p>
 
 				<h4 className="mt-8 font-semibold">Cutting-Edge Technology Stack</h4>
-				<p className="mt-4">We help you become proficient with the tech stack commonly found in Software Engineer job postings, including React, Next.js, JavaScript, TypeScript, Java, Spring Boot, PostgreSQL, Docker, Kubernetes, and more.</p>
+				<p className="mt-4">We help you become proficient with the tech stack commonly found in Software Engineer job postings, including React, Next.js, JavaScript, TypeScript, Java, Spring Boot, PostgreSQL, Docker, AWS, Kubernetes, and more.</p>
 
 				<h4 className="mt-8 font-semibold">Resume Review and Mock Interview</h4>
 				<p className="mt-4">We offer resume reviews and mock interview services upon program completion without additional fees.</p>
